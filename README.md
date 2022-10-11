@@ -9,11 +9,11 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/sumin9403"><img src="https://avatars.githubusercontent.com/u/109324637?v=4?s=100" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hwanny7"><img src="https://avatars.githubusercontent.com/u/109256753?v=4?s=100" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://avatars.githubusercontent.com/u/109322004?v=4?s=100" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/dostiny"><img src="https://avatars.githubusercontent.com/u/62232531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/yuha0513"><img src="https://avatars.githubusercontent.com/u/109324634?v=4?s=100" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
+    <td align="center"><a href="https://github.com/sumin9403"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hwanny7"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/dostiny"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/yuha0513"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
     <td align="center"><a href="https://github.com/kira"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
     <td align="center"><a href="https://github.com/gmkim716"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
     <td align="center"><a href="https://github.com/eunjijilong"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
