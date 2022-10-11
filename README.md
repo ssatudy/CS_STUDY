@@ -10,7 +10,7 @@
   <tr>
     <td align="center"><a href="https://github.com/sumin9403"><img src="https://github.com/sumin9403.png" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hwanny7"><img src="https://github.com/hwanny7.png" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://github.com/jonghopark1014.png" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/jonghopark1014"><img src="" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
     <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
     <td align="center"><a href="https://github.com/yuha0513"><img src="https://github.com/yuha0513.png" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
     <td align="center"><a href="https://github.com/ki-ra"><img src="https://github.com/ki-ra.png" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
