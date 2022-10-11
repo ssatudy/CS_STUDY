@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 네트워크 스터디
 
 ## 1. 개요
@@ -9,14 +8,14 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/sumin9403"><img src="https://avatars.githubusercontent.com/u/sumin9403" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hwanny7"><img src="https://avatars.githubusercontent.com/u/hwanny7" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://avatars.githubusercontent.com/u/jonghopark1014" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/dostiny"><img src="https://avatars.githubusercontent.com/u/dostiny" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/yuha0513"><img src="https://avatars.githubusercontent.com/u/yuha0513" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
-    <td align="center"><a href="https://github.com/ki-ra"><img src="https://avatars.githubusercontent.com/u/ki-ra" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
-    <td align="center"><a href="https://github.com/gmkim716"><img src="https://avatars.githubusercontent.com/u/gmkim716" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
-    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://avatars.githubusercontent.com/u/eunjijilong" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/sumin9403"><img src="https://github.com/sumin9403.png" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hwanny7"><img src="https://github.com/hwanny7.png" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://github.com/jonghopark1014.png" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/yuha0513"><img src="https://github.com/yuha0513.png" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
+    <td align="center"><a href="https://github.com/ki-ra"><img src="https://github.com/ki-ra.png" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/gmkim716"><img src="https://github.com/gmkim716.png" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://github.com/eunjijilong.png" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
   </tr>
 </table>
 
@@ -74,7 +73,6 @@
 - **commit 메시지** : 주차_이름 (ex: 1주차_박종호)
 - **학습 정리 내용** : 해당 주차 학습 확인을 위한 개인 필기 내용 (파일 형식 자유 ex: md, pdf, jpg, doc, html...)
 - **퀴즈** : 해당 주차 학습 내용을 바탕으로 한 퀴즈 (2 - 3 문제)
-  - 면접 질문 위주로 준비 (지나치게 지엽적이거나 복잡한 내용 지양)
   - 정답은 별도의 파일로 작성
 
 - **정답**: 해당 주차 퀴즈의 정답
