@@ -9,14 +9,14 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/sumin9403"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hwanny7"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/dostiny"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
-    <td align="center"><a href="https://github.com/yuha0513"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
-    <td align="center"><a href="https://github.com/kira"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
-    <td align="center"><a href="https://github.com/gmkim716"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
-    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://avatars.githubusercontent.com/u/103018534?v=4?s=100" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/sumin9403"><img src="https://avatars.githubusercontent.com/u/sumin9403" width="100px;" alt=""/><br /><sub><b>수민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hwanny7"><img src="https://avatars.githubusercontent.com/u/hwanny7" width="100px;" alt=""/><br /><sub><b>승환</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jonghopark1014"><img src="https://avatars.githubusercontent.com/u/jonghopark1014" width="100px;" alt=""/><br /><sub><b>종호</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/dostiny"><img src="https://avatars.githubusercontent.com/u/dostiny" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br /></td>      
+    <td align="center"><a href="https://github.com/yuha0513"><img src="https://avatars.githubusercontent.com/u/yuha0513" width="100px;" alt=""/><br /><sub><b>유하</b></sub></a><br /></td>     
+    <td align="center"><a href="https://github.com/ki-ra"><img src="https://avatars.githubusercontent.com/u/ki-ra" width="100px;" alt=""/><br /><sub><b>기라</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/gmkim716"><img src="https://avatars.githubusercontent.com/u/gmkim716" width="100px;" alt=""/><br /><sub><b>경민</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/eunjijilong"><img src="https://avatars.githubusercontent.com/u/eunjijilong" width="100px;" alt=""/><br /><sub><b>은지</b></sub></a><br /></td>  
   </tr>
 </table>
 
@@ -71,15 +71,10 @@
 - 매주  **학습 상태 점검**(노트 필기 혹은 개인 sns 페이지 등) 및 간단한 **퀴즈** 진행
 
 **\** 모든 파일은 스터디 당일 스터디 시작 전까지 업로드\**
-- **commit 메시지** : 주차_이름 (ex: 1주차_유선준)
+- **commit 메시지** : 주차_이름 (ex: 1주차_박종호)
 - **학습 정리 내용** : 해당 주차 학습 확인을 위한 개인 필기 내용 (파일 형식 자유 ex: md, pdf, jpg, doc, html...)
 - **퀴즈** : 해당 주차 학습 내용을 바탕으로 한 퀴즈 (2 - 3 문제)
   - 면접 질문 위주로 준비 (지나치게 지엽적이거나 복잡한 내용 지양)
   - 정답은 별도의 파일로 작성
 
 - **정답**: 해당 주차 퀴즈의 정답
-=======
-되나?
-
-
->>>>>>> 93f5eac801ec5d65f81cb2e0868394fa678e13fe
