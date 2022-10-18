@@ -1,0 +1,12 @@
+1. 
+flow control
+Receiver에게 데이터를 전송 시 receiver가 받을 수 있는 능력(buffer)만큼 전송
+
+congestion control
+처음에는 조금씩 시작하다 packet loss에 도달하면 threshold 값을 확 줄임, 이후에 linear하게 증가시킴
+
+2. 
+
+1 - client가 server한테 tcp connection 연결 요청(server로 SYN 전송)
+2 - server는 client에게 SYNACK 전송
+3 - client는 SYNACK에 대한 ACK 전송해 connection 확인
