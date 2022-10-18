@@ -1,0 +1,20 @@
+
+
+문제 1 답: 
+receiver buffer 와 network
+
+receiver는 TCP segment의 해더 부분의 buffer 라는 필드에 남은 버퍼 공간에 대한 정보를 담아 ack와 같이 전송한다.
+버퍼의 남은 공간을 계속해서 서로 공유하는 이 방법을 flow control 이라고 한다.
+
+network의 혼잡도를 확인하여 데이터의 양을 결정하는 방법을 congestion control 이라고 한다. 
+보내는 데이터의 양을 조절하면서 network의 상황을 살피는 방법이다.
+
+sender는 이 두가지 고려사항 중 더 적은 데이터 수용성에 맞춰서 보낼 데이터의 양을 조절하면 된다.
+
+
+
+문제 2 답:
+두 가지 모델의 차이점은 tahoe 모델은 packet 유실이 된 경우 데이터의 전송량을 1mss 부터 다시 증가시키지만,
+reno 모델의 경우 timeout과 three duplicated 두 가지 경우에 따라 전송량을 다르게 수정한다.
+three duplicated일 경우 다른 데이터는 receiver가 잘 받았지만, 일부에만 문제가 있는 것이기 때문에
+네트워크의 문제가 크다고 보지 않고, 윈도우 사이즈를 절반으로 줄이고, 만약 time out으로 인한 유실이라면 tahoe와 같이 1mss부터 시작한다. 

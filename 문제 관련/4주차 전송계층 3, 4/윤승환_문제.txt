@@ -1,0 +1,6 @@
+
+1. TCP에서 sender는 receiver 에게 데이터를 보낼 때 두 가지 사항을 고려해서 데이터의 양을 결정한다.
+이 두 가지는 무엇이며, 각각을 확인하는 방법을 간략하게 설명하시오.
+
+
+2. TCP Congestion control 모델 중 tahoe와 Reno의 차이점을 packet 유실의 관점에서 설명하시오. 
