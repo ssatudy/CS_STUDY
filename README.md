@@ -19,6 +19,7 @@
   </tr>
 </td>  
     <td align="center"><a href="https://github.com/doyeong96"><img src="https://github.com/doyeong96.png" width="100px;" alt=""/><br /><sub><b>도영</b></sub></a><br /></td>  
+    <td align="center"><a href="https://github.com/dongminYOUN"><img src="https://github.com/dongminYOUN.png" width="100px;" alt=""/><br /><sub><b>동민</b></sub></a><br /></td>     
   </tr>
 </table>
 
